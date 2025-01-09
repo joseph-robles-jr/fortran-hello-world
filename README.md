@@ -11,12 +11,13 @@
 
 Steps to build and/or run the software:
 
-1. Compilin requires the gfortran compiler (Often Part of GCC)
-2. 
+1. Compilation requires the gfortran compiler (Often Part of GCC)
+2. To compile on most systems, run:
 
 ```gfortran helloWorld.f90 -o helloWorld```
 
-3. 
+3. To execute the compiled binary:
+
 ```.\helloWorld.exe``` (Or ./helloWorld.out on Unix systems)
 
 Instructions for using the software:
