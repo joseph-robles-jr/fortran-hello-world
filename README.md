@@ -21,6 +21,7 @@ Steps to build and/or run the software:
 ```.\helloWorld.exe``` (Or ./helloWorld.out on Unix systems)
 
 Instructions for using the software:
+Precompiled binaries for a few platforms are in the 'builds-exe' directory. 
 
 1. For windows, run
 
