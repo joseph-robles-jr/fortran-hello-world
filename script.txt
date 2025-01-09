@@ -1,0 +1,35 @@
+(Screen shows the Fortran code in a text editor like VSCode)
+
+Hi everyone, welcome to this quick video on my Fortran "Hello World" program. I'll walk you through the code and then show you it running.
+
+Here’s the code. It's a basic Fortran program that prints "Hello, World!" to the console. 
+
+We start with the program helloWorld line to define the program. 
+
+
+The implicit none statement helps avoid any implicit typing of variables which means that we tell the compiler what the data types are instead of the traditional fortran approach which uses the first letter of a variable to define it's data type. 
+
+Next, the print *, 'Hello, World!' line is where the magic happens. This command outputs the text "Hello, World!" to the console. 
+
+Finally, we close the program with end program helloWorld.
+
+
+
+[Compilation and Running the Program]
+
+(Switch to a terminal window showing the compilation process)
+
+Now, let’s compile and run the program. 
+We use the gfortran compiler with the command gfortran helloWorld.f90 -o helloWorld to compile the code. 
+
+Once compiled, we run the executable using .\helloWorld.exe on Windows or ./helloWorld.out on Unix systems.
+
+(Show the terminal running the commands and the output)
+
+As you can see, the program successfully runs and prints "Hello, World!" to the console.
+
+[Closing Scene]
+
+(Switch back to the text editor or a blank screen)
+
+Narration: And that’s it! A simple "Hello World" program in  Fortran. Thank you for watching.
