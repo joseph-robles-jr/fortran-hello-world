@@ -39,6 +39,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
+* [ ] Expand the program to include user input and output. 
+* [ ] Add a prompt for gettin to know the user and then displaying it back.
 * [ ]
