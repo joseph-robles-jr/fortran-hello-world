@@ -14,16 +14,16 @@ Steps to build and/or run the software:
 1. Compilin requires the gfortran compiler (Often Part of GCC)
 2. 
 
-'''gfortran helloWorld.f90 -o helloWorld'''
+```gfortran helloWorld.f90 -o helloWorld```
 
 3. 
-'''.\helloWorld.exe''' (Or ./helloWorld.out on Unix systems)
+```.\helloWorld.exe``` (Or ./helloWorld.out on Unix systems)
 
 Instructions for using the software:
 
 1. For windows, run
 
-'''.\helloWorld.exe'''
+```.\helloWorld.exe```
 
 2."Hello, World!" should be printed to the console.
 
