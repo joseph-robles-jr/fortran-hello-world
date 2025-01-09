@@ -41,7 +41,7 @@ I found these websites useful in developing this software:
 
 * [fortran-lang.org](https://fortran-lang.org/learn/quickstart/hello_world/)
 * [How to insall Gfortran](https://fortran-lang.org/en/learn/os_setup/install_gfortran/)
-*
+
 
 ## Future Work
 
@@ -49,4 +49,3 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 
 * [ ] Expand the program to include user input and output. 
 * [ ] Add a prompt for gettin to know the user and then displaying it back.
-* [ ]
