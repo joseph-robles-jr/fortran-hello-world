@@ -3,7 +3,7 @@
 
 **Hello World**:
 
-**Project Description**: A simple hello world program written in Fortran.
+**Project Description**: A simple hello world program written in Modern Fortran.
 
 **Project Goals**: To learn the basic syntax of Fortran
 
